@@ -1,0 +1,12 @@
+C:\Users\disrct\Desktop\ORMLib-main\ORMLib\obj\Debug\net7.0\ORMlIB.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\ORMLib-main\ORMLib\obj\Debug\net7.0\ORMlIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\ORMLib-main\ORMLib\obj\Debug\net7.0\ORMlIB.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\ORMLib-main\ORMLib\obj\Debug\net7.0\ORMlIB.AssemblyInfo.cs
+C:\Users\disrct\Desktop\ORMLib-main\ORMLib\obj\Debug\net7.0\ORMlIB.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\ORMLib-main\ORMLib\bin\Debug\net7.0\ORMlIB.deps.json
+C:\Users\disrct\Desktop\ORMLib-main\ORMLib\bin\Debug\net7.0\ORMlIB.dll
+C:\Users\disrct\Desktop\ORMLib-main\ORMLib\bin\Debug\net7.0\ORMlIB.pdb
+C:\Users\disrct\Desktop\ORMLib-main\ORMLib\obj\Debug\net7.0\ORMlIB.dll
+C:\Users\disrct\Desktop\ORMLib-main\ORMLib\obj\Debug\net7.0\refint\ORMlIB.dll
+C:\Users\disrct\Desktop\ORMLib-main\ORMLib\obj\Debug\net7.0\ORMlIB.pdb
+C:\Users\disrct\Desktop\ORMLib-main\ORMLib\obj\Debug\net7.0\ref\ORMlIB.dll
